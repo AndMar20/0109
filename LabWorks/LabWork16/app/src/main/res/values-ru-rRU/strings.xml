@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+    <string name="app_name">LabWork16</string>
+        <string name="find">Найти</string>
+        <string name="ok">OK</string>
+        <string name="enter">Войти</string>
+        <string name="register">Зарегистрироваться</string>
+        <string name="user">Привет, %1$s! Сейчас %2$d год.</string>
+        <string-array name="seasons">
+            <item>Зима</item>
+            <item>Весна</item>
+            <item>Лето</item>
+            <item>Осень</item>
+        </string-array>
+    </resources>

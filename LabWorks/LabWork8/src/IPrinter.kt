@@ -1,0 +1,3 @@
+interface IPrinter {
+    fun properties()
+}
